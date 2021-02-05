@@ -8,5 +8,6 @@ function domin(request, response) {
         latitude: -15.772951742341565,
         longitude: -47.92127710388373
     }
-    ])
+    ]);
 }
+export default domin;
