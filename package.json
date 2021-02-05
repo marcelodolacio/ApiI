@@ -5,6 +5,10 @@
   "scripts": {
     "dev": "next dev"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelodolacio/ApiI.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
